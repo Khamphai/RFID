@@ -1,0 +1,18 @@
+MFRC522	Arduino
+3.3V		3.3V
+RES		D9
+GND		GND
+MISO		D12
+MOSI		D11
+SCK		D13
+SDA (SS)		D10
+
+Servo		D6
+Red LED		A1
+Green LED	A0
+Buzzer		D5
+
+//ID Key Card
+E5:A5:38:3B
+72:F3:6C:06
+29:4B:79:9E
